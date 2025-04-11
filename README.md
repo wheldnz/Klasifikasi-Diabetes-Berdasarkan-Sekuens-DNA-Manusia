@@ -111,7 +111,7 @@ di proyek kali ini memakai 80:20
 <p align="center">
 <img src="results/akurasi terbaik.png" width="450"/>
 <br/>
-<em>Confusion Matrix - Model Terbaik</em>
+<em> Akurasi Terbaik</em>
 </p>
 
 ---
