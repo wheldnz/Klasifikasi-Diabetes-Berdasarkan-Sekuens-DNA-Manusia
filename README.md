@@ -97,18 +97,22 @@ di proyek kali ini memakai 80:20
 ### 2. **Pemodelan**
 - Menggunakan algoritma **Support Vector Machine (SVM)**.
 - Kernel yang diuji:
-- RBF (Radial Basis Function)
-- Polinomial
-- Sigmoid
+  1. RBF (Radial Basis Function)
+  2. Polinomial
+  3. Sigmoid
 - Pengujian nilai **C**:
-- 0.01, 0.1, 1, 10, 100
+  0.01, 0.1, 1, 10, 100
 
 ### 3. **Evaluasi**
 - Menggunakan metrik:
 - Akurasi
 - Precision, Recall, F1-score
-- Confusion Matrix
-- ROC Curve
+- 
+<p align="center">
+<img src="results/akurasi terbaik.png" width="450"/>
+<br/>
+<em>Confusion Matrix - Model Terbaik</em>
+</p>
 
 ---
 
