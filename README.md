@@ -1,4 +1,4 @@
-# 🧬 Klasifikasi Diabetes Berdasarkan Sekuens DNA Menggunakan Support Vector Machine (SVM)
+# 🧬 Machine Learing Klasifikasi Diabetes Berdasarkan Sekuens DNA Menggunakan Support Vector Machine (SVM)
 
 Proyek ini bertujuan untuk mengklasifikasikan jenis Diabetes Mellitus (Tipe 1, Tipe 2, dan Non-Diabetes) berdasarkan data sekuens DNA manusia. Klasifikasi dilakukan menggunakan algoritma Support Vector Machine (SVM) dengan berbagai jenis kernel dan pengujian parameter. Proyek ini menggabungkan pendekatan bioinformatika dan machine learning dalam pengembangan model prediktif di bidang kesehatan.
 
