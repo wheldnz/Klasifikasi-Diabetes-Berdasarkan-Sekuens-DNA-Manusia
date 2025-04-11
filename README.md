@@ -153,7 +153,7 @@ Proyek ini dikembangkan sebagai bagian dari portofolio **Data Science** untuk me
 
 ## 📬 Kontak
 
-Ingin berdiskusi lebih lanjut atau tertarik pada topik serupa?
+Ingin berdiskusi lebih lanjut atau membutuhkan file csv nya?
 
 - 📧 Email: [wildanuril99@email.com]  
 - 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
