@@ -122,7 +122,7 @@ di proyek kali ini memakai 80:20
 | Akurasi          | **96%**       |
 
 <p align="center">
-<img src="results/confusion_matrix.png" width="450"/>
+<img src="results/confusion matrix terbaik.png" width="450"/>
 <br/>
 <em>Confusion Matrix - Model Terbaik</em>
 </p>
