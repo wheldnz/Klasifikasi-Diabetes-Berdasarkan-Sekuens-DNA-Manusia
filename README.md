@@ -129,21 +129,6 @@ di proyek kali ini memakai 80:20
 
 ---
 
-## 📊 Visualisasi
-
-- Wordcloud fitur paling sering muncul untuk masing-masing kelas:
-
-<p align="center">
-<img src="results/wordcloud_positive.png" width="320"/>
-<img src="results/wordcloud_negative.png" width="320"/>
-<br/>
-<em>Visualisasi Wordcloud k-mers dominan</em>
-</p>
-
-- Visualisasi ROC dan laporan klasifikasi lainnya tersedia di folder `/results/`.
-
----
-
 
 ## ✍️ Tentang Proyek Ini
 
