@@ -157,6 +157,12 @@ Beberapa insight penting:
 
 ---
 
+## 👤 Kontributor
+
+**Nama:** _M. Wildan Nuril Akmal 
+**Minat:** Data Science, Machine Learning bioinformatika  
+
+
 ## 📬 Kontak
 
 Ingin berdiskusi lebih lanjut atau membutuhkan file csv nya?
