@@ -37,6 +37,57 @@ id,sequence,label 1,ATGCTAGCTAGCTAGCTA,DMT1 2,TGACTGATCGTACGTAGC,DMT2 ...
 
 ---
 
+## 🔄 Preprocessing Data
+
+Proses preprocessing data melibatkan beberapa tahap penting sebelum dilakukan pelatihan model:
+
+### a. Pembersihan Data
+Langkah ini bertujuan untuk memastikan data akurat, konsisten, dan layak digunakan untuk pemodelan. Beberapa langkah yang dilakukan adalah:
+
+1. **Whitespace**  
+   Menghapus spasi yang tidak perlu dalam sekuens DNA.
+
+2. **Penghapusan Nucleotida yang Tidak Dikenal**  
+   DNA yang mengandung karakter selain A, C, G, atau T (misalnya ‘N’) dihapus karena dianggap noise.
+
+3. **Penghapusan Duplikasi**  
+   Hanya satu salinan sekuens DNA yang disimpan jika ada data duplikat.
+
+---
+
+### b. Transformasi Data
+
+Data DNA yang masih dalam bentuk teks diubah menjadi representasi numerik agar bisa diproses oleh algoritma machine learning. Proses ini menggunakan teknik **4-mers (tokenisasi 4 karakter berturut-turut)**.
+
+Contoh representasi:
+
+| 4-mers | Representasi Numerik |
+|--------|----------------------|
+| AAAC   | 12                   |
+| AACA   | 13                   |
+| ACGG   | 14                   |
+
+---
+
+### c. Oversampling Data
+
+Untuk mengatasi ketidakseimbangan kelas, digunakan metode **SMOTE (Synthetic Minority Over-sampling Technique)**. Teknik ini menambahkan sampel sintetis ke kelas minoritas agar seimbang dengan kelas mayoritas.
+
+---
+
+### d. Pembagian Data
+
+Dataset dibagi menjadi dua bagian:
+
+- **Data Pelatihan (Training Set)**: digunakan untuk melatih model.
+- **Data Pengujian (Testing Set)**: digunakan untuk mengevaluasi performa model.
+
+Pembagian dilakukan secara acak dengan proporsi umum seperti 80:20 atau 70:30, tergantung strategi validasi.
+di proyek kali ini memakai 80:20
+
+---
+
+
 ## 🧪 Metodologi
 
 ### 1. **Pra-pemrosesan**
