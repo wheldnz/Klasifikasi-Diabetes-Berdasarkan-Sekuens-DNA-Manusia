@@ -135,6 +135,23 @@ di proyek kali ini memakai 80:20
 Proyek ini dikembangkan sebagai bagian dari portofolio **Data Science** untuk menunjukkan penerapan machine learning dalam bidang bioinformatika dan kesehatan. Topik ini dipilih karena diabetes merupakan penyakit kronis dengan angka prevalensi tinggi, dan pendekatan berbasis DNA dapat memberikan kontribusi penting dalam deteksi dini penyakit.
 
 ---
+## 🔍 Insight Penting
+
+> Model Machine Learning berbasis **SVM** menunjukkan performa luar biasa dalam klasifikasi data genomik.
+
+Beberapa insight penting:
+
+- Representasi fitur sangat berpengaruh: penggunaan **4-mers** menghasilkan vektor fitur yang mampu membedakan antar kelas dengan sangat baik.
+- Kernel **RBF** unggul karena mampu menangkap **pola non-linear** dalam data DNA yang kompleks.
+- Pemilihan parameter **C = 10** memberikan keseimbangan terbaik antara bias dan variansi.
+- **Akurasi 96%** menunjukkan bahwa model klasik seperti SVM dapat mengungguli deep learning dalam beberapa kasus — terutama ketika data **terstruktur dan bersih**.
+- Model ini lebih cepat dilatih, ringan, dan mudah diimplementasikan.
+---
+
+📌 Lihat juga pendekatan deep learning untuk topik yang sama di sini:
+👉 [Deep Learning untuk Klasifikasi DNA](https://github.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-)
+
+---
 
 ## 📬 Kontak
 
